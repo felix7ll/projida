@@ -1,0 +1,196 @@
+h1 {
+font-size: 3rem;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+color: #a7ff83;
+text-align: left;
+}
+
+h2{
+  color: #4ecca3;
+}
+
+h3{
+  color: #4ecca3;
+    font-weight: normal;
+}
+
+body{
+  background-color: #222831;
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+hr{
+  height: 1px;
+  background-color: #a7ff83;
+  width: auto;
+}
+
+
+p{
+  width: 60%;
+}
+
+a{
+   text-decoration: none;
+}
+
+.mbss{
+  margin-bottom: 20px;
+}
+
+
+.innercontainer{
+  background-color: #00587a;
+  color: #e7e7de;
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+}
+
+/* HEADING */
+.container1{
+  display: inline-flex;
+
+}
+.myface{
+  border-radius: 60%;
+  width: 20%;
+  position: relative;
+  left: 500px;
+  padding: 25px;
+
+}
+
+.headright{
+  top: 100px;
+  position: absolute;
+  right: 400px;
+}
+
+.headleft{
+  position: absolute;
+  top: 100px;
+  margin-left: 50px;
+
+}
+
+/* PERSONAL INFO */
+.personal{
+  width: 90%;
+  margin-left: 10px;
+}
+
+
+/* INTEREST IN IT */
+.interest_it{
+  width: 90%;
+  margin-left: 10px;
+}
+
+
+/* IDEAL JOB */
+.idealjob{
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.jobpic{
+  width: 30%;
+  border-radius: 1%;
+  float: left;
+  margin-bottom: 30px;
+
+}
+
+.jobt{
+float: right;
+}
+
+.skill11{
+}
+
+.jobtt{
+  position: relative;
+  left: 50px;
+  width: 90%;
+}
+
+/* PERSONALITY TEST */
+.profiletest{
+  margin-bottom: 50px;
+}
+
+.profilet{
+
+  }
+
+.profiletext{
+  position: relative;
+  left: 300px;
+  margin-top: 5px;
+}
+
+.pim1{
+  border-radius: 10px;
+  width: 13%;
+  margin: 10px;
+  position: absolute;
+  left: 275px;
+  top: 1700px;
+}
+
+.pim2{
+  width: 50%;
+  border-radius: 1%;
+  margin-top: 25px;
+  position: relative;
+  left: 150px;
+}
+
+.pim3{
+  border-radius: 10px;
+  width: 13%;
+  margin: 10px;
+  position: absolute;
+  left: 275px;
+  top: 2050px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+
+
+/* MY PROJECT */
+.projectmain{
+  width: 95%;
+  margin: 30px auto;
+  position: relative;
+  left: 225px;
+}
+
+.projida{
+  margin: 20px;
+}
+
+.projectt{
+  position: relative;
+  line-height: 1.2;
+}
+
+/* FOOTER */
+.fot{
+  text-align: center;
+}
+
+footer{
+  padding-top: 10px;
+  color: white;
+  padding-bottom: 5px;
+  margin: auto;
+  font-size: 0.7rem;
+}
